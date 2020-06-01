@@ -1,0 +1,110 @@
+body{
+	background:rgba(0,0,0,0.4);
+}
+h1{
+	position: absolute;
+	left:40%;
+}
+.container{
+	position: absolute;
+	background-color:white;
+	width:40%;
+	height:80%;
+	left:25%;
+	top:70px;
+	z-index:9999;
+
+}
+#box{
+	background-color: lightgrey;
+	width:92%;
+	height:20%;
+	position:absolute;
+	margin:20px;
+}
+
+.circle{
+	position:absolute;
+	text-align: center;
+	justify-content: center;
+	height:80px;
+	width:80px;
+	background-color: white;
+	border-radius: 40px;
+	font-weight: 700;
+	font-size: 20px;
+}
+.circle:hover{
+	opacity:60%;
+}
+.add{
+	top:25%;
+	left:10%;
+	background-color: blue;
+}
+.sub{
+	top:25%;
+	left:30%;
+	background-color: blue;
+}
+.mult{
+	top:25%;
+	left:50%;
+	background-color: blue;
+}
+.divide{
+	top:25%;
+	left:70%;
+	background-color: blue;
+}
+.clc{
+	top:43%;
+	left:70%;
+	background-color: blue;
+}
+.nine{
+	top:43%;
+	left:10%;
+}
+.eight{
+	top:43%;
+	left:30%;
+}
+.seven{
+	top:43%;
+	left:50%;
+}
+.six{
+	top:63%;
+	left:10%;
+}
+.five{
+	top:63%;
+	left:30%;
+}
+.four{
+	top:63%;
+	left:50%;
+}
+.three{
+	top:82%;
+	left:10%;
+}
+.two{
+	top:82%;
+	left:30%;
+}
+.one{
+	top:82%;
+	left:50%;
+}
+.equal{
+	top:82%;
+	left:70%;
+	background-color: blue;
+}
+.zero{
+	top:63%;
+	left:70%;
+	background-color: blue;
+}
