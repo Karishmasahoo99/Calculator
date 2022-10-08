@@ -1,4 +1,5 @@
-#CALCULATOR:
+#CALCULATOR
+
 Calculator created using :
       HTML
       CSS
