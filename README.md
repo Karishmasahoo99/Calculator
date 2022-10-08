@@ -1,4 +1,4 @@
-#CALCULATOR
+calculator
 
 Calculator created using :
       HTML
