@@ -1,2 +1,6 @@
-# Calculator
-Calculator created using HTTML, CSS and JavaScript
+calculator
+
+Calculator created using :
+      HTML
+      CSS
+      JAVASCRIPT
